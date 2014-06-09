@@ -1,1 +1,1 @@
-It's a WordPress television theme for tv.99pillars.com website.
+It's a WordPress television theme for <a href="http://tv.99pillars.com">tv.99pillars.com</a> website.
